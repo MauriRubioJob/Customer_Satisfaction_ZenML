@@ -5,5 +5,6 @@ optuna==2.10.0
 streamlit==1.8.1
 xgboost==1.5.2
 markupsafe==1.1.1
-zenml==0.35.1
-pandas==2.1.4
+zenml==0.44.0  # Replace with the latest version
+pandas==1.5.3
+PyYAML==6.0.2 --only-binary=:all:
